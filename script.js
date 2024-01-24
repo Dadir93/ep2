@@ -120,3 +120,4 @@ document.addEventListener('DOMContentLoaded', () => {
         totalPriceSpan.textContent = `$${totalPrice.toFixed(2)}`;
     }
 });
+
